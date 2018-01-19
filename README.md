@@ -20,3 +20,5 @@ Everyone with an interest in the subject is welcome to join - whether you have a
 We :heart: music and believe that everyone - no matter their ability - should be able to experience playing music. 
 
 We plan to use this space to share resources, start projects and collaborate together in making digital music tools more accessible.
+
+We also have the Modern Music Creation Accessibility Group as a google mailing list for anyone interested in joining the conversation, [you can do so here](https://groups.google.com/forum/#!forum/mmc-accessibility-group). 
