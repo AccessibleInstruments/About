@@ -1,4 +1,6 @@
-# AccessibleInstruments - A Special Interest Group for Developers, Designers, Product Owners and Researchers
+# AccessibleInstruments
+
+A Special Interest Group for Developers, Designers, Product Owners and Researchers :sparkles: :musical_note:
 
 ## Who are we? 
 
